@@ -10,4 +10,4 @@ Un mode solo avec une dimension narrative (mode histoire) est également envisag
 
 Rock & Rocky propose ainsi un gameplay simple à prendre en main, mais qui demande réflexion et synchronisation pour venir à bout de chaque défi.
 
-<img width="500" height="500" alt="R_CK_R_CKY_2" src="https://github.com/user-attachments/assets/22c51835-2d27-4e0c-a6d1-011fc9c9025f" />
+<img width="500" height="500" alt="R_CK_R_CKY" src="https://github.com/user-attachments/assets/6d9d8acb-01f3-41d8-947a-b1a9c8096a10" />
